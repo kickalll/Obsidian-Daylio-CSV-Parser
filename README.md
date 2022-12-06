@@ -10,6 +10,7 @@ The script will automatically choose the newest CSV file in the folder, if you n
 Some of the results can be easily adjusted through configs in the code. It is currently adjusted how I like it and some non easy to change code reflects that.
 
 The script will automatically overwrite and files using the same naming structure it does. Do not run in a folder containing existing YYYY-MM-DD titled notes (i.e. your daily notes folder)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 You'll need to do a few things to run this script. I'll explain my process but there are other methods you can easily google.
 I use Visual Studio Code so download that
