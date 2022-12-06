@@ -12,11 +12,17 @@ Some of the results can be easily adjusted through configs in the code. It is cu
 The script will automatically overwrite and files using the same naming structure it does. Do not run in a folder containing existing YYYY-MM-DD titled notes (i.e. your daily notes folder)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-You'll need to do a few things to run this script. I'll explain my process but there are other methods you can easily google.
+You'll need to do a few things to run this script. I'll explain my process but there are other methods you can easily search.
+
 I use Visual Studio Code so download that
+
 Then in VSC install the python plugin
+
 Open the folder containing the script and your csv file in VSC
+
 Right click the script and click Run Python File In Terminal
+
 If that doesn't work for you sorry I can't explain other methods at this time but do give VSC a try it's a good program.
 
-Knowledge on how to run Python scripts is at the moment necessary to run this thing. I do not have time now to explain it, but I may streamline this or make a manual in the future.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Lastly I just want to say that this was a project made in collaboration between myself and the openai chatbot ChatGPT meaning that while some of this code is handwritten some of it was also generated automatically and an actual back and forth was had between myself and the AI to determine certain methods of doing things. Very neat stuff!
